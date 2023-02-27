@@ -1,0 +1,1091 @@
+/* 2000px */
+@media(max-width:2000px)
+{
+    .Font-1
+    {
+        text-align: center;
+        font-size: 9rem;
+    }
+    .Font-3
+    {
+        font-size: 1.9rem;
+    }
+    .About-me-font1
+    {
+        font-size: 6rem;
+    }
+    .About-me-font2
+    {
+        font-size: 1.9rem;
+        font-weight: 100;
+    }
+    .About-me-font3
+    {
+        font-size: 1.9rem;
+    }
+
+    .Test
+    {
+        position: absolute;
+         margin-top: -54rem;
+         margin-left: 62rem;
+    }
+
+    .Services-font1{
+        font-size: 6rem;
+    }
+    .Services-font2
+    {
+        font-size: 1.9rem;
+    }
+    .Service-font2
+    {
+        font-size: 1.9rem;
+    }
+    .Services-font3
+    {
+        font-size: 6rem;
+    }
+    .Contacts-font1
+    {
+        font-size: 1.9rem;
+    }
+}
+/* end */
+
+/* 1947 */
+@media(max-width:1947px)
+{
+    .About-me-font2
+    {
+        font-size: 1.8rem;
+    }
+    .About-me-font3
+    {
+        font-size: 1.8rem;
+    }
+    .Test
+    {
+        position: absolute;
+    /* margin-top: -45rem; */
+    margin-top: -51rem;
+    margin-left: 59rem;
+    }
+    .Services-font2
+    {
+        font-size: 1.8rem;
+    }
+    .Service-font2
+    {
+        font-size: 1.8rem;
+    }
+    .Contacts-font2
+    {
+        font-size: 1.8rem;
+    }
+}
+/* end */
+/* 1853 */
+@media(max-width:1853px)
+{
+    .About-me-font2
+    {
+        font-size: 1.7rem;
+    }
+    .About-me-font3
+    {
+        font-size: 1.7rem;
+    }
+    .Test
+    {
+        position: absolute;
+        /* margin-top: -45rem; */
+        margin-top: -47rem;
+        margin-left: 58rem;
+    }
+.Services-font2
+    {
+        font-size: 1.7rem;
+    }
+.Service-font2
+    {
+        font-size: 1.7rem;
+    }
+.Contacts-font1
+    {
+        font-size: 1.7rem;
+    }
+.Contacts-font2
+    {
+        font-size: 1.7rem;
+    }
+}
+/* end */
+/* 1800 */
+@media(max-width:1800px){
+.Test
+    {
+        position: absolute;
+        /* margin-top: -45rem; */
+        margin-top: -47rem;
+        margin-left: 55rem;
+    }
+}
+/* end */
+/* 1759 */
+@media(max-width:1759px)
+{
+    .About-me-font2
+    {
+        font-size: 1.6rem;
+    }
+    .About-me-font3
+    {
+        font-size: 1.6rem;
+    }
+    .Test
+    {
+        position: absolute;
+        /* margin-top: -45rem; */
+        margin-top: -44rem;
+         margin-left: 53rem;
+    }
+    .Services-font2
+    {
+        font-size: 1.6rem;
+    }
+    .Service-font2
+    {
+        font-size: 1.6rem;
+    }
+    .Contacts-font1
+    {
+        font-size: 1.6rem;
+
+    }
+    .Contacts-font2
+    {
+        font-size: 1.6rem;
+    }
+    .Font-3
+    {
+        font-size: 1.6rem;
+    }
+}
+/* end */
+/* 1695 */
+@media(max-width:1695px)
+{
+    .Test
+    {
+        position: absolute;
+         /* margin-top: -45rem; */
+         margin-top: -44rem;
+         margin-left: 50rem;
+    }
+}
+/* end */
+/* 1666 */
+@media(max-width:1666px)
+{
+    .Font-3
+    {
+        font-size: 1.5rem;
+    }
+    .About-me-font2
+    {
+        font-size: 1.5rem;
+    }
+    .About-me-font3
+    {
+        font-size: 1.5rem;
+    }
+    .Services-font2
+    {
+        font-size: 1.5rem;
+    }
+    .Service-font2
+    {
+        font-size: 1.5rem;
+    }
+    .Contacts-font1
+    {
+        font-size: 1.5rem;
+    }
+    .Contacts-font2
+    {
+        font-size: 1.5rem;
+    }
+
+}
+/* End */
+/* 1585 */
+@media(max-width:1585px)
+{
+    .Test
+    {
+        position: absolute;
+        /* margin-top: -45rem; */
+        margin-top: -12rem;
+        margin-top: -41rem;
+        margin-left: 47rem;
+    }
+   
+}
+/* end */
+/* 1572 */
+@media(max-width:1572px)
+{
+    .Font-3
+    {
+        font-size: 1.4rem;
+    }
+    .About-me-font2
+    {
+        font-size: 1.4rem;
+    }
+    .About-me-font3
+    {
+        font-size: 1.4rem;
+    }
+    .Services-font2
+    {
+        font-size: 1.4rem;
+    }
+    .Service-font2
+    {
+        font-size: 1.4rem;
+    }
+    .Contacts-font1
+    {
+        font-size: 1.4rem;
+    }
+    .Contacts-font2
+    {
+        font-size: 1.4rem;
+    }
+    .Test
+    {
+        position: absolute;
+         margin-top: -36rem;
+         margin-left: 45rem;
+    }
+}
+/* end */
+/* 1515 */
+@media(max-width:1515px)
+{
+    .Test
+    {
+        position: absolute;
+        margin-top: -41rem;
+        margin-left: 42rem;
+    }
+}
+/* end */
+/* 1498 */
+@media(max-width:1498px)
+{
+    .Font-1
+    {
+        font-size: 8rem;
+    }
+    .About-me-font1
+    {
+        font-size: 5rem;
+    }
+    .Services-font1
+    {
+        font-size: 5rem;
+    }
+    .Services-font3
+    {
+        font-size: 5rem;
+    }
+}
+/* end */
+/* 1478 */
+@media(max-width:1478px)
+{
+    .Font-3
+    {
+        font-size: 1.3rem;
+    }
+    .About-me-font2
+    {
+        font-size: 1.3rem;
+    }
+    .About-me-font3
+    {
+        font-size: 1.3rem;
+    }
+    .Services-font2
+    {
+        font-size: 1.3rem;
+    }
+    .Service-font2
+    {
+        font-size: 1.3rem;
+    }
+    .Contacts-font1
+    {
+        font-size: 1.3rem;
+    }
+    .Contacts-font2
+    {
+        font-size: 1.3rem;
+    }
+    .Test
+    {
+        margin-left: 40rem;
+    }
+}
+/* end */
+/* 1390 */
+@media(max-width:1390px)
+{
+    .Test
+    {
+        position: absolute;
+        margin-top: -41rem;
+        margin-left: 38rem;
+    }
+}
+/* End */
+/* 1384 */
+@media(max-width:1384px)
+{
+    .Font-3
+    {
+        font-size: 1.2rem;
+    }
+    .About-me-font2
+    {
+        font-size: 1.2rem;
+    }
+    .About-me-font3
+    {
+        font-size: 1.2rem;
+    }
+    .Services-font2
+    {
+        font-size: 1.2rem;
+    }
+    .Service-font2
+    {
+        font-size: 1.2rem;
+    }
+    .Contacts-font1
+    {
+        font-size: 1.2rem;
+    }
+    .Contacts-font2
+    {
+        font-size: 1.2rem;
+    }
+}
+/* end */
+/* 1370 */
+@media(max-width:1370px)
+{
+    .Test
+    {
+         position: absolute;
+         margin-top: -37rem;
+         margin-left: 36rem;
+    }
+}
+/* end */
+/* 1331 */
+@media(max-width:1331px)
+{
+    .Font-1
+    {
+        font-size: 7rem;
+    }
+    .About-me-font1
+    {
+        font-size: 4rem;
+    }
+    .Services-font1
+    {
+        font-size: 4rem;
+    }
+    .Services-font3
+    {
+        font-size: 4rem;
+    }
+
+    .Test
+    {
+         position: absolute;
+         margin-top: -35rem;
+         margin-left: 35rem;
+    }
+}
+/* end */
+/* 1290 */
+@media(max-width:1290px)
+{
+    .Font-3
+    {
+        font-size: 1.1rem;
+    }
+    .About-me-font2
+    {
+        font-size: 1.1rem;
+    }
+    .About-me-font3
+    {
+        font-size: 1.1rem;
+    }
+    .Services-font2
+    {
+        font-size: 1.1rem;
+    }
+    .Service-font2
+    {
+        font-size: 1.1rem;
+    }
+    .Contacts-font1
+    {
+        font-size: 1.1rem;
+    }
+    .Contacts-font2
+    {
+        font-size: 1.1rem;
+    }
+    .Test
+    {
+         position: absolute;
+         margin-top: -32rem;
+         margin-left: 32rem;
+    }
+}
+/* end */
+/* 1196 */
+@media(max-width:1196px)
+{
+    .Font-3
+    {
+        font-size: 1rem;
+    }
+    .About-me-font2
+    {
+        font-size: 1rem;
+    }
+    .About-me-font3
+    {
+        font-size: 1rem;
+    }
+    .Services-font2
+    {
+        font-size: 1rem;
+    }
+    .Service-font2
+    {
+        font-size: 1rem;
+    }
+    .Contacts-font1
+    {
+        font-size: 1rem;
+    }
+    .Contacts-font2
+    {
+        font-size: 1rem;
+    }
+    .Test
+    {
+        position: absolute;
+         margin-top: -30rem;
+         margin-left: 30rem;
+    }
+}
+/* end */
+/* 1165 */
+@media(max-width:1165px)
+{
+    .Font-1
+    {
+        font-size: 6rem;
+    }
+    .About-me-font1
+    {
+        font-size: 3rem;
+    }
+    .Services-font1
+    {
+        font-size: 3rem;
+    }
+    .Services-font3
+    {
+        font-size: 3rem;
+    }
+    .Test
+    {
+                 position: absolute;
+                  margin-top: -30rem;
+                  margin-left: 28rem
+    }
+    
+}
+/* end */
+/* 1101 */
+@media(max-width:1101px)
+{
+    .Font-3
+    {
+        font-size: 0.9rem;
+    }
+    .About-me-font2
+    {
+        font-size: 0.9rem;
+    }
+    .About-me-font3
+    {
+        font-size: 0.9rem;
+    }
+    .Services-font2
+    {
+        font-size: 0.9rem;
+    }
+    .Service-font2
+    {
+        font-size: 0.9rem;
+    }
+    .Contacts-font1
+    {
+        font-size: 0.9rem;
+    }
+    .Contacts-font2
+    {
+        font-size: 0.9rem;
+    }
+    .Test
+    {
+        position: absolute;
+         margin-top: -30rem;
+         margin-left: 25rem;
+    }
+}
+/* end */
+/* 1015 */
+@media(max-width:1015px)
+{
+    .Test
+    {
+        position: absolute;
+       
+         margin-top: -25rem;
+         margin-left: 21rem;
+    }
+}
+/* end */
+/* 1007 */
+@media(max-width:1007px)
+{
+    .Font-3
+    {
+        font-size: 0.8rem;
+    }
+    .About-me-font2
+    {
+        font-size: 0.8rem;
+    }
+    .About-me-font3
+    {
+        font-size: 0.8rem;
+    }
+    .Services-font2
+    {
+        font-size: 0.8rem;
+    }
+    .Service-font2
+    {
+        font-size: 0.8rem;
+    }
+    .Contacts-font1
+    {
+        font-size: 0.8rem;
+    }
+    .Contacts-font2
+    {
+        font-size: 0.8rem;
+    }
+    .Contacts-font3
+    {
+        font-size: 0.8rem;
+    }
+}
+/* end */
+/* 999 */
+@media(max-width:999px)
+{
+    .Font-1
+    {
+        font-size: 5rem;
+    }
+    .About-me-font1
+    {
+        font-size: 2.5rem;
+    }
+    .Services-font1
+    {
+        font-size: 2.5rem;
+    }
+    .Services-font3
+    {
+        font-size: 2.5rem;
+    }
+}
+/* end */
+/* 920 */
+@media(max-width:920px)
+{
+    .Test
+    {
+        position: absolute;
+         margin-top: -25rem;
+          margin-left: 20rem;
+    }
+}
+/* end */
+/* 913 */
+@media(max-width:913px)
+{
+    .Font-3
+    {
+        font-size: 0.7rem;
+    }
+    .About-me-font2
+    {
+        font-size: 0.7rem;
+    }
+    .About-me-font3
+    {
+        font-size: 0.7rem;
+    }
+    .Services-font2
+    {
+        font-size: 0.7rem;
+    }
+    .Service-font2
+    {
+        font-size: 0.7rem;
+    }
+    .Contacts-font1
+    {
+        font-size: 0.7rem;
+    }
+    .Contacts-font2
+    {
+        font-size: 0.7rem;
+    }
+    .Contacts-font3
+    {
+        font-size: 0.7rem;
+    }
+}
+/* end */
+/* 860 */
+@media(max-width:860px)
+{
+    .Test
+    {
+        position: absolute;
+         margin-top: -25rem;
+         margin-left: 18rem
+    }
+}
+/* end */
+/* 832 */
+@media(max-width:832px)
+{
+    .Font-1
+    {
+        font-size: 4.5rem;
+    }
+    .About-me-font1
+    {
+        font-size: 2rem;
+    }
+    .Services-font1
+    {
+        font-size: 2rem;
+    }
+    .Services-font3
+    {
+        font-size: 2rem;
+    }
+}
+/* end */
+/* 819 */
+@media(max-width:819px)
+{
+    .Font-3
+    {
+        font-size: 0.6rem;
+    }
+    .About-me-font2
+    {
+        font-size: 0.6rem;
+    }
+    .About-me-font3
+    {
+        font-size: 0.6rem;
+    }
+    .Services-font2
+    {
+        font-size: 0.6rem;
+    }
+    .Service-font2
+    {
+        font-size: 0.6rem;
+    }
+    .Contacts-font1
+    {
+        font-size: 0.6rem;
+    }
+    .Contacts-font2
+    {
+        font-size: 0.6rem;
+    }
+    .Contacts-font3
+    {
+        font-size: 0.6rem;
+    }
+}
+/* end */
+
+/* 800 */
+@media(max-width:800px)
+{
+    .Test
+    {
+        position: absolute;
+       
+        margin-top: -22rem;
+        margin-left: 15rem;
+    }
+    .Hero-button
+    {
+        font-size:4rem;
+        padding: 1rem;
+    }
+}
+/* end */
+/* 749 */
+@media(max-width:749px)
+{
+    .Font-1
+    {
+        font-size: 4rem;
+    }
+    .About-me-font1
+    {
+        font-size: 1.8rem;
+    }
+    .Services-font1
+    {
+        font-size: 1.8rem;
+    }
+    .Services-font3
+    {
+        font-size: 1.8rem;
+    }
+    .Test
+    {
+        position: absolute;
+         margin-top: -22rem;
+         margin-left: 14rem
+    }
+    .photo-2
+    {
+        width: 40%;
+    }
+}
+/* end */
+/* 725 */
+@media(max-width:725px)
+{
+    .Font-3
+    {
+        font-size: 0.5rem;
+    }
+    .About-me-font2
+    {
+        font-size: 0.5rem;
+    }
+    .About-me-font3
+    {
+        font-size: 0.5rem;
+    }
+    .Services-font2
+    {
+        font-size: 0.5rem;
+    }
+    .Service-font2
+    {
+        font-size: 0.5rem;
+    }
+    .Contacts-font1
+    {
+        font-size: 0.5rem;
+    }
+    .Contacts-font2
+    {
+        font-size: 0.5rem;
+    }
+    .Contacts-font3
+    {
+        font-size: 0.5rem;
+    }
+}
+/* end */
+/* 700 */
+@media(max-width:700px)
+{
+    .Test
+    {
+        margin-top: -18rem;
+        margin-left: 12rem;
+    }
+    .Hero-button
+    {
+        font-size: 3.4rem;
+         padding: 0.5rem
+    }
+}
+/* end */
+/* 666 */
+@media(max-width:666px)
+{
+    .Font-1
+    {
+        font-size: 3.5rem;
+    }
+    .About-me-font1
+    {
+        font-size: 2rem;
+    }
+    .Services-font1
+    {
+        font-size: 2rem;
+    }
+    .Services-font3
+    {
+        font-size: 2rem;
+    }
+}
+/* end */
+/* 631 */
+@media(max-width:631px)
+{
+    .Font-3
+    {
+        font-size: 1rem;
+    }
+    .About-me-font2
+    {
+        font-size: 0.9rem;
+    }
+    .About-me-font3
+    {
+        font-size: 0.9rem;
+    }
+    .Services-font2
+    {
+        font-size: 1rem;
+    }
+    .Service-font2
+    {
+        font-size: 1rem;
+    }
+    .Contacts-font1
+    {
+        font-size: 1rem;
+    }
+    .Contacts-font2
+    {
+        font-size: 1rem;
+    }
+    .Contacts-font3
+    {
+        font-size: 1rem;
+    }
+
+    .Sub-photo
+    {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    .Main-Service
+    {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+
+
+
+}
+/* end */
+
+/* 602 */
+@media(max-width:602px)
+{
+    .About-me-font2
+    {
+        font-size: 0.8rem;
+    }
+    .About-me-font3
+    {
+        font-size: 0.8rem;
+    }
+    .Font-3
+    {
+        font-size: 0.5;
+    }
+    .Test
+    {
+        margin-top: -15rem;
+        margin-left: 11rem;
+    }
+}
+/* end */
+/* 583 */
+@media(max-width:583px)
+{
+    .Font-1
+    {
+        font-size: 3rem;
+    }
+    .Test
+    {
+        margin-top: -16rem;
+         margin-left: 9rem
+    }
+}
+/* end */
+
+/* 550 */
+@media(max-width:560px)
+{
+    .Font-1
+    {
+        border: none;
+        margin-bottom: 1rem;
+    }
+    .About-me-font2
+    {
+        font-size: 0.4rem;
+    }
+    .About-me-font3
+    {
+        font-size: 0.4rem;
+    }
+    .Font-3
+    {
+        font-size: 0.4rem;
+    }
+}
+/* end */
+/* 537 */
+@media(max-width:537px)
+{
+    .About-me-font2
+    {
+        font-size: 0.3rem;
+    }
+    .About-me-font3
+    {
+        font-size: 0.3rem;
+    }
+    .Services-font2
+    {
+        font-size: 0.3rem;
+    }
+    .Font-3
+    {
+        font-size: 0.3rem;
+    }
+ 
+    
+}
+/* end */
+/* 500px */
+@media(max-width:500px)
+{
+    .Font-1
+    {
+        font-size: 2rem;
+    }
+    
+    .Test
+    {
+        margin-top: -13rem;
+        margin-left: 4rem;
+    }
+}
+/* end */
+/* 443 */
+@media(max-width:443px)
+{
+    .About-me-font2
+    {
+        font-size: 0.2rem;
+    }
+    .About-me-font3
+    {
+        font-size: 0.2rem;
+    }
+    .Services-font2
+    {
+        font-size: 0.2rem;
+    }
+    .Font-3
+    {
+        font-size: 0.2rem;
+    }
+}
+/* end */
+/* 344 */
+@media(max-width:344px)
+{
+    .Hero-button
+    {
+        font-size: 2.5rem;
+    }
+    .Test
+    {
+        margin-top: -9rem;
+             margin-left: 2rem;
+    }
+    .Font-1
+    {
+        font-size: 1.5rem;
+    }
+    .About-me-font2
+    {
+        font-size: 0.1rem;
+    }
+}
+/* end */
+/* 244 */
+@media(max-width:244px)
+{
+    .Hero-button
+    {
+        font-size: 2rem;
+    }
+    .Test
+    {
+        margin-top: -6rem;
+        
+        margin-left: 2rem;
+    }
+    .Font-1
+    {
+        font-size: 1rem;
+    }
+}
+/* end */

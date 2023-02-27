@@ -1,0 +1,20 @@
+
+Sample site
+httpssebastiancamargo.comref=onepagelove
+
+About-me
+	Im Naldy L. Manlabao i was born in philippines on may 13 1997
+	And my hobby and passion is all about technology
+
+	For the past 7 years since on 2017 i was working as IT technician
+	i have experiences on Hardawared and software. I can troubleshoot and fixed
+	Desktop computer laptop computer and printers and install software
+	Like Operating system, i start sinces windows 7 and 8 , 8.1 and 10 and i can
+	Install windows server 2008 and 2012 configure server role such DCHP, ACDC , File sharing
+	And Install ubuntu linux use the terminal prompt and debian.
+	And i have experience on Networks Build networks configure router, switch
+	i can build a local network for working station or office station or business use
+	And i have experience on CCTV Installation and diagnosing
+
+Come to us and we will help you to get rid of all computer problems.
+	

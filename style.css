@@ -1,0 +1,431 @@
+
+
+/* Background color 
+    https://coolors.co/palette/0d1b2a-1b263b-415a77-778da9-e0e1dd
+
+    Body = 0d1b2a
+    Fonts = e0e1dd
+
+    Fonts use
+    Inter
+    Pacifico
+
+    Header Font size = 8 rem
+    Title font size = 4 rem
+    Sub font size = 2rem
+
+    new effect try it!
+    https://codepen.io/benngagne/pen/WNRGrY
+*/
+*{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+
+    background-color: #0d1b2a;
+}
+
+/* Page-1 */
+.Font-1
+{   
+    border-top: 1px solid coral;
+    border-bottom: 1px solid coral ;
+    color: #e0e1dd;
+    font-size: 8rem;
+    font-family: 'Inter' , sans-serif;
+    margin-bottom: 0px;
+    margin-top: 1rem;
+
+    text-shadow: 1px 1px 1px #919191,
+    1px 2px 1px #919191,
+    1px 3px 1px #919191,
+    1px 4px 1px #919191,
+    1px 5px 1px #919191,
+    1px 6px 1px #919191,
+    1px 7px 1px #919191,
+    1px 8px 1px #919191,
+    1px 9px 1px #919191,
+    1px 10px 1px #919191,
+1px 18px 6px rgba(16,16,16,0.4),
+1px 22px 10px rgba(16,16,16,0.2),
+1px 25px 35px rgba(16,16,16,0.2),
+1px 30px 60px rgba(16,16,16,0.4);
+
+}
+/* End */
+
+/* Page-2 */
+
+.Font-2
+{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Font-3
+{
+    color: #e0e1dd;
+    font-size: 1rem;
+    font-family: 'Inter' , sans-serif;
+}
+
+/* end */
+
+/* Page-3 */
+.Sub-photo
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+}
+.Sub-photo2
+{
+    display: flex;
+    justify-content: center;
+}
+.photo-1
+{
+    margin-top: 1rem;
+    width: 100%;
+    border-radius: 1rem;
+}
+.photo-2
+{   
+    margin-top: 1rem;
+    width: 50%;
+    border-radius: 1rem;
+}
+/* end */
+
+/* Page-4 */
+.About-me-Main{
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+}
+.About-me-font1
+{
+    font-size: 4rem;
+    font-family: 'Pacifico' , sans-serif;
+    font-weight: 100;
+    color: #e0e1dd;
+}
+.About-me-Photo1
+{
+    width: 50%;
+    border-radius: 1rem;
+}
+.About-me-Main1
+{
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+}
+.About-me-font2
+{
+    padding: 2rem;
+    font-size: 2rem;
+    font-family: 'Inter' ,sans-serif;
+    font-weight: 300;
+    color:#e0e1dd ;
+    align-self: center;
+}
+.About-me-Main2
+{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+    
+}
+.About-me-font3
+{
+    margin-top: 3rem;
+    font-size: 2rem;
+    font-family: 'Inter' ,sans-serif;
+    font-weight: 300;
+    color:#e0e1dd ;
+   
+}
+/* End */
+
+/* Page-5 */
+
+
+
+/* .Hero-Font1
+{
+    
+    font-size: 5rem;
+    font-family: 'Inter' ,sans-serif;
+    font-weight: 700;
+    color:#e0e1dd ;
+    text-shadow: 0 1px 0 #ccc, 
+               0 2px 0 #c9c9c9,
+               0 3px 0 #bbb,
+               0 4px 0 #b9b9b9,
+               0 5px 0 #aaa,
+               0 6px 1px rgba(0,0,0,.1),
+               0 0 5px rgba(0,0,0,.1),
+               0 1px 3px rgba(0,0,0,.3),
+               0 3px 5px rgba(0,0,0,.2),
+               0 5px 10px rgba(0,0,0,.25),
+               0 10px 10px rgba(0,0,0,.2),
+               0 20px 20px rgba(0,0,0,.15);
+
+    
+} */
+.Hero-Main
+{
+    margin-top: 5rem;
+}
+.Hero-box-img
+{
+    width: 100%;
+    position: relative; 
+    
+}
+.Hero-box-font
+{
+    font-size: 6rem;
+    color: #e0e1dd;
+    margin-top: 5rem;
+    /* position: absolute; */
+    font-family: 'Inter' , sans-serif;
+    font-weight: 700;
+    text-shadow: 0 1px 0 #ccc, 
+               0 2px 0 #c9c9c9,
+               0 3px 0 #bbb,
+               0 4px 0 #b9b9b9,
+               0 5px 0 #aaa,
+               0 6px 1px rgba(0,0,0,.1),
+               0 0 5px rgba(0,0,0,.1),
+               0 1px 3px rgba(0,0,0,.3),
+               0 3px 5px rgba(0,0,0,.2),
+               0 5px 10px rgba(0,0,0,.25),
+               0 10px 10px rgba(0,0,0,.2),
+               0 20px 20px rgba(0,0,0,.15);
+    
+
+}
+
+.Hero-button{
+    font-size: 4.5rem;
+    color: #e0e1dd; 
+    font-family: 'Inter' , sans-serif;
+    font-weight: 700;
+    text-shadow: 0 1px 0 #ccc, 
+               0 2px 0 #c9c9c9,
+               0 3px 0 #bbb,
+               0 4px 0 #b9b9b9,
+               0 5px 0 #aaa,
+               0 6px 1px rgba(0,0,0,.1),
+               0 0 5px rgba(0,0,0,.1),
+               0 1px 3px rgba(0,0,0,.3),
+               0 3px 5px rgba(0,0,0,.2),
+               0 5px 10px rgba(0,0,0,.25),
+               0 10px 10px rgba(0,0,0,.2),
+               0 20px 20px rgba(0,0,0,.15); 
+    text-decoration: none;
+    border: solid;
+    /* padding: 1rem; */
+    background-color: #e63946;
+    border-radius: 1rem;
+}
+.Hero-button:active
+{
+    /* font-style: italic; */
+    font-weight: 400;
+    color: #CFD1CB;
+     
+}
+
+
+.Test
+{
+    position: absolute;
+     margin-top: -40rem; 
+     margin-left: 30rem;
+}
+/* end */
+
+
+
+
+ 
+
+ /* Page-6  */
+
+
+.Page-6-Main
+{
+    background-color: #1B263B;
+}
+
+.Servies-first-box
+{
+   
+    position: relative;
+    text-align: center;
+    margin-top: 5rem;
+}
+.Service-font1
+{
+    font-size: 2rem;
+    font-family: 'Inter' ,sans-serif;
+    font-weight: 300;
+    color:#e0e1dd ;
+}
+
+.Main-Service{
+   display:grid;
+   grid-template-columns: 1fr 1fr 1fr;
+   gap: 2rem;
+   position: relative;
+    margin-top: 5rem;
+}
+.service-button{
+    text-decoration: none;
+    color:#e0e1dd ;
+}
+.service-button:hover{
+
+    text-decoration: none;
+    color:#e0e1dd ;
+    opacity: 0.5;
+}
+
+.Service-photo{
+    width: 100%;
+    border-radius: 5px;
+}
+
+.Service-font2
+{
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Inter' ,sans-serif;
+    /* font-weight: 400; */
+    color:#e0e1dd ;
+}
+
+
+.Servies-first-box
+{
+    background-color:#1B263B;
+}
+
+.Services-font1
+{
+    font-size: 4rem;
+    color: #e0e1dd; 
+    font-family: 'Inter' , sans-serif;
+}
+.Services-font2
+{
+    font-size: 2rem;
+    color:#e0e1dd  ;
+    font-family: 'Inter',sans-serif;
+}
+.Services-font3
+{
+    margin-top: 4rem; 
+    /* margin-left: 1rem; */
+    font-size: 6rem;
+    color: #e0e1dd;
+    font-family: 'Inter' , sans-serif;
+    text-align: center;
+    /* border: solid #778DA9; */
+    /* position: absolute; */
+    padding: 1rem;
+    background-color:#0d1b2a;
+    border-radius: 3rem;
+    box-shadow: 10px 5px 5px #415A77;
+    text-shadow: 1px 1px 1px #919191,
+    1px 2px 1px #919191,
+    1px 3px 1px #919191,
+    1px 4px 1px #919191,
+    1px 5px 1px #919191,
+    1px 6px 1px #919191,
+    1px 7px 1px #919191,
+    1px 8px 1px #919191,
+    1px 9px 1px #919191,
+    1px 10px 1px #919191,
+1px 18px 6px rgba(16,16,16,0.4),
+1px 22px 10px rgba(16,16,16,0.2),
+1px 25px 35px rgba(16,16,16,0.2),
+1px 30px 60px rgba(16,16,16,0.4);
+}
+/* end */
+
+/* Contacts */
+.Contacts-Main-Box
+{
+    margin-top: 5rem;
+    text-align: center;
+}
+.Contacts-font1
+{
+    font-size: 3rem;
+    color: #e0e1dd;
+    font-family: 'Inter',sans-serif;
+}
+.Contacts-font2
+{
+    font-size: 2.8rem;
+    color: #e0e1dd;
+    font-family: 'Inter',sans-serif;
+}
+.Contacts-font3
+{
+    font-size: 1rem;
+    color: #e0e1dd;
+    font-family: 'Inter',sans-serif;
+    text-decoration: none;
+    background-color: #e63946;
+    padding: 0.2rem;
+
+    /* color: #e0e1dd;  
+    font-family: 'Inter' , sans-serif;
+    font-weight: 400;
+    text-shadow: 0 1px 0 #ccc, 
+               0 2px 0 #c9c9c9,
+               0 3px 0 #bbb,
+               0 4px 0 #b9b9b9,
+               0 5px 0 #aaa,
+               0 6px 1px rgba(0,0,0,.1),
+               0 0 5px rgba(0,0,0,.1),
+               0 1px 3px rgba(0,0,0,.3),
+               0 3px 5px rgba(0,0,0,.2),
+               0 5px 10px rgba(0,0,0,.25),
+               0 10px 10px rgba(0,0,0,.2),
+               0 20px 20px rgba(0,0,0,.15); 
+    text-decoration: none;
+    border: solid;
+    */
+    /* padding: 1rem; x
+    background-color: #e63946;
+    border-radius: 1rem;; */
+
+    text-align: right;
+}
+.Contact-button
+{
+    display: flex;
+    justify-content: right;
+    margin-right: 1rem;
+ 
+}
+.Contact-button:active
+{
+    opacity: 0.5;
+    color: #CFD1CB;
+    
+}
+
+
+
+
+/* end */
