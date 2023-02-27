@@ -1089,3 +1089,16 @@
     }
 }
 /* end */
+@media(max-width:205px)
+{
+    .Hero-button
+    {
+        font-size: 1rem;
+    }
+    .Test
+    {
+        margin-top: -5rem;
+        margin-left: 4rem;
+    }
+}
+/* end */
